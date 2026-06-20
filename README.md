@@ -118,15 +118,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DASIHARSHITHA&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DASIHARSHITHA&theme=onedark" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
